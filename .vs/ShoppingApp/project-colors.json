@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e43797c8-40cb-47c9-8e8b-ca6119aa2474": {
+      "ProjectGuid": "e43797c8-40cb-47c9-8e8b-ca6119aa2474",
+      "DisplayName": "ShoppingApi",
+      "ColorIndex": 0
+    },
+    "6b530db0-2897-4803-8401-0e8fb10692e5": {
+      "ProjectGuid": "6b530db0-2897-4803-8401-0e8fb10692e5",
+      "DisplayName": "ShoppingApp",
+      "ColorIndex": 1
+    },
+    "54bdc84e-5eea-4b89-ad91-cbef93b44c1f": {
+      "ProjectGuid": "54bdc84e-5eea-4b89-ad91-cbef93b44c1f",
+      "DisplayName": "ShoppingDal",
+      "ColorIndex": 2
+    },
+    "65e9ec01-7caa-41e8-a988-b7ad0ccb5bc0": {
+      "ProjectGuid": "65e9ec01-7caa-41e8-a988-b7ad0ccb5bc0",
+      "DisplayName": "ShoppingTest",
+      "ColorIndex": 3
+    },
+    "1e5bfc4e-0e25-492d-b034-a16cf93e14c5": {
+      "ProjectGuid": "1e5bfc4e-0e25-492d-b034-a16cf93e14c5",
+      "DisplayName": "ShoppingMVC",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,183 @@
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.exe
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.deps.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingDal.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\bin\Debug\net5.0\ShoppingDal.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\refint\ShoppingApi.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApi\obj\Debug\net5.0\ref\ShoppingApi.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\appsettings.json
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingApi.exe
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingApi.deps.json
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingApi.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingApi.pdb
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingDal.dll
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\zip files\ShoppingApi\bin\Debug\net5.0\ShoppingDal.pdb
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.dll
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\refint\ShoppingApi.dll
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.pdb
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache
+C:\Users\acer\zip files\ShoppingApi\obj\Debug\net5.0\ref\ShoppingApi.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\appsettings.Development.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\appsettings.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.exe
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.deps.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ref\ShoppingApi.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingApi.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Azure.Core.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Azure.Identity.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingApp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingDal.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingApp.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\bin\Debug\net5.0\ShoppingDal.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ref\ShoppingApi.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApi\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache

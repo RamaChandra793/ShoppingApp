@@ -1,0 +1,436 @@
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.exe
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.deps.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.runtimeconfig.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.Views.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.Views.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\bin\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.AssemblyInfo.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorAssemblyInfo.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorAssemblyInfo.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\scopedcss\bundle\ShoppingMVC.styles.css
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\staticwebassets\ShoppingMVC.StaticWebAssets.Manifest.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.TagHelpers.input.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.TagHelpers.output.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorCoreGenerate.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorTargetAssemblyInfo.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorTargetAssemblyInfo.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.Views.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.CopyComplete
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\refint\ShoppingMVC.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.genruntimeconfig.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\ref\ShoppingMVC.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Index.cshtml.g.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Create.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.exe
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.deps.json
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.runtimeconfig.json
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.runtimeconfig.dev.json
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.pdb
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.Views.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.Views.pdb
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\zip files\ShoppingMVC\bin\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.AssemblyReference.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.AssemblyInfoInputs.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.AssemblyInfo.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.CoreCompileInputs.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorAssemblyInfo.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorAssemblyInfo.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\scopedcss\bundle\ShoppingMVC.styles.css
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\staticwebassets\ShoppingMVC.StaticWebAssets.Manifest.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.TagHelpers.input.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.TagHelpers.output.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorCoreGenerate.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Create.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Index.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorTargetAssemblyInfo.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorTargetAssemblyInfo.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.Views.pdb
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.CopyComplete
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.dll
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\refint\ShoppingMVC.dll
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.pdb
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.genruntimeconfig.cache
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\ref\ShoppingMVC.dll
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Edit.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Delete.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CategoryMvc\Index.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CategoryMvc\Create.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CategoryMvc\Edit.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CategoryMvc\Delete.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CustomerMvc\Index.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CustomerMvc\Create.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CustomerMvc\Edit.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\OrderMvc\Index.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\OrderMvc\Create.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\OrderMvc\Delete.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\SellerMvc\Index.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\SellerMvc\Create.cshtml.g.cs
+C:\Users\acer\zip files\ShoppingMVC\obj\Debug\net5.0\Razor\Views\SellerMvc\Edit.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\appsettings.Development.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\appsettings.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.exe
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.deps.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.runtimeconfig.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.runtimeconfig.dev.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ref\ShoppingMVC.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.Views.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.Views.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Humanizer.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingApp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingApp.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.AssemblyReference.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.AssemblyInfoInputs.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.AssemblyInfo.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.CoreCompileInputs.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.MvcApplicationPartsAssemblyInfo.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorAssemblyInfo.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorAssemblyInfo.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\scopedcss\bundle\ShoppingMVC.styles.css
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\staticwebassets\ShoppingMVC.StaticWebAssets.Manifest.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.TagHelpers.input.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.TagHelpers.output.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorCoreGenerate.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CategoryMvc\Create.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CategoryMvc\Delete.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CategoryMvc\Edit.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CategoryMvc\Index.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CustomerMvc\Create.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CustomerMvc\Edit.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\CustomerMvc\Index.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\OrderMvc\Create.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\OrderMvc\Delete.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\OrderMvc\Index.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Create.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Delete.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Edit.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\ProductMvc\Index.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\SellerMvc\Create.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\SellerMvc\Edit.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\SellerMvc\Index.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorTargetAssemblyInfo.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.RazorTargetAssemblyInfo.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.Views.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.csproj.CopyComplete
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ref\ShoppingMVC.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.genruntimeconfig.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\ShoppingMVC.StaticWebAssets.xml
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\ShoppingMVC.MvcApplicationPartsAssemblyInfo.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\staticwebassets\ShoppingMVC.StaticWebAssets.xml
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingMVC\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs

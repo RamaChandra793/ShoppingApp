@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingMVC\\ShoppingMVC.csproj": {}
+  },
+  "projects": {
+    "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingApp\\ShoppingApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingApp\\ShoppingApp.csproj",
+        "projectName": "ShoppingApp",
+        "projectPath": "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingApp\\ShoppingApp.csproj",
+        "packagesPath": "C:\\Users\\RamaChandra\\.nuget\\packages\\",
+        "outputPath": "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RamaChandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingMVC\\ShoppingMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingMVC\\ShoppingMVC.csproj",
+        "projectName": "ShoppingMVC",
+        "projectPath": "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingMVC\\ShoppingMVC.csproj",
+        "packagesPath": "C:\\Users\\RamaChandra\\.nuget\\packages\\",
+        "outputPath": "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RamaChandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingApp\\ShoppingApp.csproj": {
+                "projectPath": "F:\\capgemini\\Sprint2\\Shoppingapp\\ShoppingApp\\ShoppingApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

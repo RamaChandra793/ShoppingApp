@@ -1,0 +1,36 @@
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\bin\Debug\net5.0\ShoppingApp.deps.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\bin\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\bin\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.AssemblyInfo.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\refint\ShoppingApp.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingApp\obj\Debug\net5.0\ref\ShoppingApp.dll
+C:\Users\acer\zip files\ShoppingApp\bin\Debug\net5.0\ShoppingApp.deps.json
+C:\Users\acer\zip files\ShoppingApp\bin\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\zip files\ShoppingApp\bin\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\ShoppingApp.AssemblyInfo.cs
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\refint\ShoppingApp.dll
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\zip files\ShoppingApp\obj\Debug\net5.0\ref\ShoppingApp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\bin\Debug\net5.0\ShoppingApp.deps.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\bin\Debug\net5.0\ShoppingApp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\bin\Debug\net5.0\ref\ShoppingApp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\bin\Debug\net5.0\ShoppingApp.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.csproj.AssemblyReference.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.AssemblyInfoInputs.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.AssemblyInfo.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.csproj.CoreCompileInputs.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\obj\Debug\net5.0\ref\ShoppingApp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingApp\obj\Debug\net5.0\ShoppingApp.pdb

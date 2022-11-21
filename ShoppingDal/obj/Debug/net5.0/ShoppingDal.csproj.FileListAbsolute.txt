@@ -1,0 +1,45 @@
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\bin\Debug\net5.0\ShoppingDal.deps.json
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\bin\Debug\net5.0\ShoppingDal.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\bin\Debug\net5.0\ShoppingDal.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\bin\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\bin\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.AssemblyInfo.cs
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.CopyComplete
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\refint\ShoppingDal.dll
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.pdb
+C:\Users\acer\source\repos\ShoppingApp\ShoppingDal\obj\Debug\net5.0\ref\ShoppingDal.dll
+C:\Users\acer\zip files\ShoppingDal\bin\Debug\net5.0\ShoppingDal.deps.json
+C:\Users\acer\zip files\ShoppingDal\bin\Debug\net5.0\ShoppingDal.dll
+C:\Users\acer\zip files\ShoppingDal\bin\Debug\net5.0\ShoppingDal.pdb
+C:\Users\acer\zip files\ShoppingDal\bin\Debug\net5.0\ShoppingApp.dll
+C:\Users\acer\zip files\ShoppingDal\bin\Debug\net5.0\ShoppingApp.pdb
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.AssemblyReference.cache
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ShoppingDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ShoppingDal.AssemblyInfoInputs.cache
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ShoppingDal.AssemblyInfo.cs
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.CoreCompileInputs.cache
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.CopyComplete
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ShoppingDal.dll
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\refint\ShoppingDal.dll
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ShoppingDal.pdb
+C:\Users\acer\zip files\ShoppingDal\obj\Debug\net5.0\ref\ShoppingDal.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\bin\Debug\net5.0\ShoppingDal.deps.json
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\bin\Debug\net5.0\ShoppingDal.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\bin\Debug\net5.0\ref\ShoppingDal.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\bin\Debug\net5.0\ShoppingDal.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\bin\Debug\net5.0\ShoppingApp.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\bin\Debug\net5.0\ShoppingApp.pdb
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.AssemblyReference.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.GeneratedMSBuildEditorConfig.editorconfig
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.AssemblyInfoInputs.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.AssemblyInfo.cs
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.CoreCompileInputs.cache
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.csproj.CopyComplete
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ref\ShoppingDal.dll
+F:\capgemini\Sprint2\Shoppingapp\ShoppingDal\obj\Debug\net5.0\ShoppingDal.pdb
